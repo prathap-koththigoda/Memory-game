@@ -1,3 +1,3 @@
 # Memory-game
-You have to use XAMPP or some server to play this game cause it was made with MySQL.
+YOU HAVE TO USE XAMPP OR SOME SERVER TO PLAY THIS GAME cause it was made with MySQL.
 I used Scrum method to make this. Js, MySQL, HTML, Java were used to make this. 
